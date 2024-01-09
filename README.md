@@ -1,15 +1,12 @@
 ![headerImage](/hello.png)
 
 
-🐝 Abount Me ...
+## 🐝 &nbsp;About Me
 -----------------------------
-*   🎓  I am studying computer science at Prince of Songkla University.
-*   🌍  I'm based in HatYai Songkla Thailand
-*   🙍 See my portfolio at [My Portfolio](https://rusdeexii.github.io/Portfolio/)
-*   ✉️  You can contact me at [tayakornmuadrod@gmail.com](mailto:tayakornmuadrod@gmail.com)
-*   💻  I want to be a Frontend Developer.
-*   ✍ I'm learning and practicing more!.
-*   🙏  Thank you!
+🎓 &nbsp; I am studying Computer science at Prince of Songkla University.\
+🙍 &nbsp; See my portfolio at [My Portfolio](https://rusdeexii.github.io/Portfolio/)\
+✍ &nbsp; I'm learning and practicing more!.\
+🙏 &nbsp; Thank you!
 
   
 *   ### Basic Stack

@@ -7,7 +7,7 @@ Who am i ? ...
 hello! My name is Thayakorn Madrod (DEE), an insider. Nearing the end of my third year of study and eager to dive into the field of front-end development with an interest in coding and an interest in building user-friendly interfaces. and has the basics of using a database.....
 
 *   🌍  I'm based in HatYai Songkla Thailand
-*   🖥️  See my portfolio at [My Github](http://github.com/rusdeexii)
+*   🖥️  See my portfolio at [My Github](https://rusdeexii.github.io/Portfolio/)
 *   ✉️  You can contact me at [tayakornmuadrod@gmail.com](mailto:tayakornmuadrod@gmail.com)
 *   ### Basic Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

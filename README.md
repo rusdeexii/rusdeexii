@@ -1,5 +1,8 @@
 ![headerImage](/hello.png)
 
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thayakorn+Muadrod+!;" />
+</h1>
 
 ## 🐝 &nbsp;About Me
 -----------------------------
@@ -34,6 +37,6 @@
 ![Static Badge](https://img.shields.io/badge/DOCKER-2BA3DF?style=for-the-badge&logo=DOCKER&logoColor=FFFFFF&labelColor=black&color=2BA3DF)
 ![Static Badge](https://img.shields.io/badge/POSTMAN-F48618?style=for-the-badge&logo=POSTMAN&logoColor=FFFFFF&labelColor=F48618&color=F48618)
 
-
+ <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rusdeexii&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
            

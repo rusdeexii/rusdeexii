@@ -7,7 +7,7 @@
 ## 🐝 &nbsp;About Me
 -----------------------------
 🎓 &nbsp; I am studying Computer science at Prince of Songkla University.\
-🙍 &nbsp; See my portfolio at [My Portfolio](https://rusdeexii.github.io/Portfolio/)\
+🙍 &nbsp; See my portfolio at [My Portfolio](https://thayakorn-portfolio.vercel.app/)\
 ✍ &nbsp; I'm learning and practicing more!.\
 🙏 &nbsp; Thank you!
 
@@ -37,7 +37,7 @@
 ![Static Badge](https://img.shields.io/badge/DOCKER-2BA3DF?style=for-the-badge&logo=DOCKER&logoColor=FFFFFF&labelColor=black&color=2BA3DF)
 ![Static Badge](https://img.shields.io/badge/POSTMAN-F48618?style=for-the-badge&logo=POSTMAN&logoColor=FFFFFF&labelColor=F48618&color=F48618)
 
-*   ### Use Most
+*   ### Used Most
  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rusdeexii&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
            

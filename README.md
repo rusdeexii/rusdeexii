@@ -7,7 +7,7 @@
 ## 🐝 &nbsp;About Me
 -----------------------------
 🎓 &nbsp; I am studying Computer science at Prince of Songkla University.\
-🙍 &nbsp; See my portfolio at [My Portfolio](https://thayakorn-portfolio.vercel.app/)\
+🙍 &nbsp; See my portfolio at [My Portfolio](https://portfolio-rusdeexiis-projects.vercel.app/)\
 ✍ &nbsp; I'm learning and practicing more!.\
 🙏 &nbsp; Thank you!
 
@@ -21,6 +21,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![NEXTJS](https://img.shields.io/badge/NEXT.JS-563D7C?style=for-the-badge&logo=Next.js&logoColor=black&color=white)
+![VUEJS](https://img.shields.io/badge/Vue-23bc58?style=for-the-badge&logo=vue.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/EXPRESS.JS-EADE21?style=for-the-badge&logo=EXPRESS&logoColor=FFFFFF&labelColor=black&color=EADE21)
 ![PrismaORM](https://img.shields.io/badge/Prisma%20ORM-563D7C?style=for-the-badge&logo=prisma&logoColor=black&color=white)
@@ -31,11 +33,6 @@
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-
-*   ### Learning
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 *   ### Tools 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

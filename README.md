@@ -15,7 +15,7 @@
 
 <!-- Social Media Badges -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/thayakorn-muadrod/" target="_blank">
+  <a href="https://www.linkedin.com/in/thayakorn-rusdeexii" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:thayakorn.dev@gmail.com">
@@ -123,7 +123,7 @@
 
 ---
 
-### 🐍 My Contribution Snake
+### 🐍 My Contribution
 <div align="center">
   <img src="https://github.com/rusdeexii/rusdeexii/blob/output/github-snake.svg" alt="github-snake" />
 </div>

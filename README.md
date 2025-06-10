@@ -32,7 +32,7 @@
 
 <img align="right" height="200" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" />
 
-- 🎓 &nbsp; I am studying **Computer Science** at **Prince of Songkla University**
+- 🎓 &nbsp; I am graduated **Computer Science** at **Prince of Songkla University**
 - 💼 &nbsp; Developing my skills in full-stack web development
 - 🌱 &nbsp; Passionate about creating responsive and user-friendly applications
 - 👨‍💻 &nbsp; See my portfolio at [My Portfolio](https://portfolio-rusdeexiis-projects.vercel.app/)

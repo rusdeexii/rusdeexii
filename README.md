@@ -28,12 +28,6 @@
 
 ---
 
-## 🐝 &nbsp;About Me
-
-
-
----
-
 ## 💻 Tech Stack
 
 <div>

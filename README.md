@@ -30,16 +30,7 @@
 
 ## 🐝 &nbsp;About Me
 
-<img align="right" height="200" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" />
 
-- 🎓 &nbsp; I am graduated **Computer Science** at **Prince of Songkla University**
-- 💼 &nbsp; Developing my skills in full-stack web development
-- 🌱 &nbsp; Passionate about creating responsive and user-friendly applications
-- 👨‍💻 &nbsp; See my portfolio at [My Portfolio](https://portfolio-rusdeexiis-projects.vercel.app/)
-- ✍️ &nbsp; I'm continuously learning and practicing to improve!
-- 🙏 &nbsp; Open to collaborations and new opportunities
-
-<br/>
 
 ---
 
@@ -48,7 +39,7 @@
 <div>
 
 > **Web Development**
-
+<img align="right" height="200" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" />
 <div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -99,7 +90,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LinuxOS" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="Sonarqube" />
-  <img src="https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge&logo=jest&logoColor=white" alt="Unit Testing" />
 </div>
 
 > **Software Development Methodologies**
